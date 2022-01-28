@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrevorCharlesMiller
-- 👀 I’m interested in Mobile App development
+- 👀 I’m interested in Web and Mobile App development
 - 🌱 I’m currently learning Google Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me http://www.trevorcharlesmiller.io
